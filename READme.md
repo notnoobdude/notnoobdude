@@ -12,7 +12,7 @@
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 💻 I’m currently working on [Innovuze Solutions, Inc.](https://innovuze.com/) as a Software QA Engineer;
+- 💻 I’m currently working at [Innovuze Solutions, Inc.](https://innovuze.com/) as a Software QA Engineer;
 - 💥 I’m currently enhancing my skills in Network Penetration Testing; 
 - 🚴 I do outdoor stuff as well (mountain-biking, fishing, swimming, and sprints/jogging);
 - 💘 I heart Chess, anime (gore, adventure, mystery, isekai genres),  and computer games;
