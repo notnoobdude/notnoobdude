@@ -16,7 +16,7 @@
 - 💥 I’m currently enhancing my skills in Network Penetration Testing; 
 - 🚴 I do outdoor stuff as well (mountain-biking, fishing, swimming, and sprints/jogging);
 - 💘 I heart Chess, anime (gore, adventure, </br> mystery, isekai genres), manhwas, light novels, and computer games;
-- 🎓 I have a degree in computer engineering, with in a </br> background in entrepreneurship also
+- 🎓 I have a degree in computer engineering, with a </br> background in entrepreneurship also
 
 **Some Languages and Tools:** 
 
