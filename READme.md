@@ -1,4 +1,4 @@
-<!-- Your title -->
+<!-- Your title 
 ## Hi, I'm Dan Fabro--a mere mortal from the archipelagic islands and isles of the Philippines.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/notnoobdude)
@@ -20,17 +20,20 @@
 
 **Some Languages and Tools:** 
 
+
+-->
+
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
 <p align="center">
-  <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
+  <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=center>
 </p>
 
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
+  
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/curl_haxx/curl_haxx-ar21.svg"></code>
@@ -46,6 +49,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   
 </p>
 
-
+-->
 
 <!-- This readme was created by Dan Fabro - https://github.com/notnoobude -->
