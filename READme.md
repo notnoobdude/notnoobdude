@@ -6,10 +6,10 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:timpaxerror@gmail.com)
 
 
-<!-- Talking about you -->
+<!-- Talking about you 
 **Some stuff about me:**
-
-<!-- Any image aligned to the right. Beware the width -->
+-->
+<!-- Any image aligned to the right. Beware the width 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 💻 I’m working at [Innovuze Solutions, Inc.](https://innovuze.com/) as a Software QA Engineer;
@@ -19,7 +19,7 @@
 - 🎓 I have a degree in computer engineering, with a </br> background in entrepreneurship also
 
 **Some Languages and Tools:** 
-
+-->
 
 -->
 
