@@ -26,7 +26,10 @@
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
-<p>
+<p align="center">
+  Private repo activities > public ones.
+</p>
+
 <p align="center">
   ## Private repo activities > public ones.
   <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=center>
