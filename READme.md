@@ -27,6 +27,7 @@
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p align="center">
+  "Walang matigas na tinapay sa naglalagablab na 3-in-1." 🔥
   Private repo activities > public ones.
 </p>
 
